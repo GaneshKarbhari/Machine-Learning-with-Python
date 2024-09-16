@@ -1,0 +1,30 @@
+
+Data science process
+
+1. Data collection and data preparation:  python packages
+2. Data preprocessing (cleaning & EDA)
+3. Feature Engineering/Selection  eg. output: Rain prediction -----features: input: humidity,temp,cloud
+4. ML model Selection ( identify problem: regression/classification/clustering/neural)
+5. ML model Training- building ML model
+6. ML model Evaluate- Real world data (accuracy, precision,f1 score, loss,error)
+7. Deploy ml model (App,API url)/HW requirement/server /Cloud-aws,azure
+
+
+
+Data Science:
+        AI:
+           Machine Learning:
+                Deep Learning: NLP (text), CV (image)
+                Generative AI:  text generation, code gen
+                LLMs: chatgpt, mistral, claude, gemini. 
+
+
+Projects/Apps:
+Text classification
+Text summarization
+Keyword Extraction
+Chatbot Interface
+Search Engine
+
+AWS Sagemaker-ML model, deploy on gpu cpu servers
+
